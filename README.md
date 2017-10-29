@@ -1,4 +1,5 @@
-# cuda_install_guide_debian
+# Cuda simple installation guide for Debian 9 (in order to be able to work with Tensorflow)
+
 A short reminder on how to quickly install cuda toolkit and cudnn library on Debian 9 for Tensorflow
 
 ## Step 1
